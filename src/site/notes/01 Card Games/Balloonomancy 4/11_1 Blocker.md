@@ -3,7 +3,7 @@
 ---
 
 
-
+# 3.1 blocker
 Balloons with blocker are able to be spent during an attack to switch the intended target to the blocker, simple stuff really.
 
 - Standard cost: 2
