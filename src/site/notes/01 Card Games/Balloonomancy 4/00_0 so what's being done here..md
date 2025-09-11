@@ -12,4 +12,4 @@ So the reasons for this are as follows:
 	- I want the excitement that comes from revealing shield triggers.
 	- I enjoy the more creature-based gameplay where boards it up is faster and attacking is more immediate.
 
-[11_1 Blocker](11_1%20Blocker.md)
+[11_1 Blocker](https://balloonomancy-v4.vercel.app/01-card-games/balloonomancy-4/11-1-blocker/)
