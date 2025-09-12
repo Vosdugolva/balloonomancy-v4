@@ -2,8 +2,4 @@
 {"dg-publish":true,"permalink":"/0-general/0-0-home-page/","tags":["gardenEntry"]}
 ---
 
-This is your new *vault*.
-
-Make a note of something, [[create a link\|create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
+So this is the 4th iteration of an ongoing card game I've been developing. With the current direction taking heavy influence from the card games kaijudo and duel Masters. 
