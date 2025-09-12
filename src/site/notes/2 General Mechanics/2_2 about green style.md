@@ -4,7 +4,7 @@
 
 # 2.2 green style
 
-Vibes
+## Vibes:
 - very naturish and druidic in aesthetic 
 	- I think the proper term is Celtic, although that's mainly with the first deck
 - it's definitely foils purple in a nature magic versus arcane magic sort of deal.
@@ -15,5 +15,5 @@ Vibes
 - I'm not sure if I put dragons in dinosaurs into green exclusively anymore, green used to be the big reptile color but
 	- I think I want dinosaurs as a green / red archetype and dragons as green / purple
 
-Mechanics
+## Mechanics:
 - 

@@ -4,6 +4,6 @@
 
 # 2.4 blue style
 
-Vibes
+## Vibes:
 
-Mechanics
+## Mechanics:

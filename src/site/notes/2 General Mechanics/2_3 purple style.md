@@ -4,7 +4,7 @@
 
 # 2.3 purple style 
 
-Vibes
+## Vibes:
 - much more of the arcane style of magic. This is more of that highfalutin magic studied by nerds.
 	- scholars, wizards, those types of magic users.
 	- the creators of the purple style are framed as being a bunch of nerds whose initial plans for balloonamancy was going to be something much more larpy. But now they have to play dodgeball.
@@ -16,4 +16,4 @@ Vibes
 - 
 
 
-Mechanics
+## Mechanics:
