@@ -16,3 +16,4 @@ Vibes
 	- I think I want dinosaurs as a green / red archetype and dragons as green / purple
 
 Mechanics
+- 
