@@ -4,6 +4,6 @@
 
 # 2.2.3 purple style 
 
-Vibe 
+Vibes
 
 Mechanics

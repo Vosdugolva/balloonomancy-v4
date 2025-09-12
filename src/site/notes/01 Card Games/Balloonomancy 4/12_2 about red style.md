@@ -4,10 +4,15 @@
 
 # 2.2.1 red style
 
-Themes:
-- athleticism 
-- physicality (body centric)
-- Roughhousing 
+Vibes:
+- very athletics oriented 
+- kind of a "pugilist" division as is mechanics mostly center around the player leaning almost exclusively on their own physical ability.
+	- a lot of dodging and maneuvers
+	- gestures and taunting 
+	- reading and predicting the opponent 
+	- grabbing and throwing balloons and stuff
+- objects tend to be either fitness related or manually operated.
+- tends to be more simple and fundamental, it's more about playing the dodgeball game ernestly.
 
 Mechanics:
 - is the tempo color 
