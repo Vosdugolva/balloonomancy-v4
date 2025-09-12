@@ -4,7 +4,7 @@
 
 # 3.9 Intimidate
 
-Another returning ability from version 2 and a functional inverse of Evasive. Intimidate means you cannot be attacked or blocked by smaller balloons.
+Another returning ability from version 2 and a functional inverse of [[3 Ability Glossary/3_08 Evasive\|Evasive]]. Intimidate means you cannot be attacked or blocked by smaller balloons.
 
 - Standard cost: 3
 - Value neutral: not quite
