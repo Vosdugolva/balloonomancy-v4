@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/3-ability-glossary/3-6-expansion/"}
 ---
 
+# 3.6 Expansion
+
 A keyword that allows a balloon to come into play on top of another balloon of a specific class by paying the difference in size between the balloons in breath. if the host is bigger than the expansion then it technically free, but if the host is bigger because of breath tokens then you still got to pay the difference in breath tokens. it's more intuitive than it sounds.
 
 - Standard cost: 4 for the most part
