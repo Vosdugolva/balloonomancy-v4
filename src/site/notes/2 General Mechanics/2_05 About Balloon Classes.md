@@ -16,13 +16,13 @@ Balloons can have more than one class, and in the future I plan on playing with 
 - [[2 General Mechanics/2_07 About Bigfoots\|BigFoot]]
 
 ### Green
-- Guardian
-- Wind Sage
+- [[2 General Mechanics/2_08 About Guardians\|Guardian]]
+- [[2 General Mechanics/2_09 About Wind Sages\|Wind Sage]]
 
 ### Purple
-- SpellBeast
-- Mage Creature
+- [[2 General Mechanics/2_10 About SpellBeasts\|SpellBeast]]
+- [[2 General Mechanics/2_11 About Mage Creatures\|Mage Creature]]
 
 ### Blue
-- Air Taker
-- Shikigama
+- [[2 General Mechanics/2_12 About Air Takers\|Air Taker]]
+- [[2 General Mechanics/2_13 About Shikigama\|Shikigama]]
