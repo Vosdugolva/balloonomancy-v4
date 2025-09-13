@@ -7,5 +7,5 @@
 
 
 ![BSSG_003.png|200](/img/user/BSSG_003.png)![BSSG_027.png|200](/img/user/BSSG_027.png)
-![BSSG_031.png|200](/img/user/BSSG_031.png)
+![[src/site/img/user/BSSG_031.png\|200]]
 
