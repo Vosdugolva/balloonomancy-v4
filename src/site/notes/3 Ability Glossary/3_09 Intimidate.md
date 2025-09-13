@@ -9,7 +9,6 @@ Another returning ability from version 2 and a functional inverse of [[3 Ability
 - Standard cost: 3
 - Value neutral: not quite
 - So far it's neither exclusive nor favored by any color
-
 ---
 So this version of Intimidate is a bit different in that it only stops the carrier from being targeted by smaller balloons, instead of it's earlier drafts which stopped smaller balloons from targeting anything on your field. though this version feels only marginally more useful than evasive.
 

@@ -9,7 +9,6 @@ It's Deathtouch, basically balloons with shredder pop a balloon regardless if it
 - Standard cost: 3
 - Value neutral: absolutely not!
 - so far mostly reserved for Purple and Blue
-
 ---
 My time fooling around with Kaijudo has taught me the value of this ability, and I take it seriously here. Shredder is a deceptively useful ability for both offense and defense.
 
