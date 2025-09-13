@@ -32,3 +32,6 @@ Not to mention, once you have an action card that can just make any balloon go a
 Personally I prefer the approach of a hard removal card being a speedy balloon with shredder. At least it has a window to respond to.
 ## 4.3.4 Board wipes 
 
+This is another mechanic that really depends on how it's executed. The main use case of board wipes is to counteract Rush strategies that involve swarming the board with a bunch of creatures. So naturally they should work under some kind of size limit.
+
+This is how twister works, it bounces everything on someone's board if it's size 5 or less, this means getting a key balloon out of twister range means actively investing in it, and some balloons can escape twister because their limit keeps them too low.

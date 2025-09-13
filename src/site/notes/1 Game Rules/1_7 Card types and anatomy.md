@@ -23,17 +23,17 @@ The elements universal to each card are as follows:
 - **Card Type**: Located in the black box below the card image. this tells you what kind of card this is.
 - **Ability Text**: Located below the card type, this is all the stuff the card can do.
 ## 1.7.1 Balloon cards
-![BSSG_003.png|200](/img/user/BSSG_003.png)
+![BSSG_003.png|300](/img/user/BSSG_003.png)
  The creature cards of this game, When a Balloon is played from your hand, it stays on your field as an active unit that is able to attack and do many other things. balloons that are freshly inflated however start off stiff and cannot attack or be spent to use any of it's own written abilities. However if a balloon comes into the field over another card as an expansion, it comes in ready to attack!
 
 When a Balloon card enters the field, it's Breath Cost becomes it's **Base Size**. Balloons have an additional stat called **Limit**, this indicates the number of breath tokens a balloon is able to hold. each breath token a balloon has increases it's effective size by +1, but if a balloon is made to hold more than it's limit in breath, the balloon immediately pops and is put into your discard.
 
 ## 1.7.2 Action cards
-![BSSG_027.png|200](/img/user/BSSG_027.png)
+![BSSG_027.png|300](/img/user/BSSG_027.png)
 Action cards are cards that perform an effect once you pay their breath cost and play them, and then are immediately put into your discard pile after they resolve. these come in 2 categories, both defined by when you are allowed to play them.
 
 **Basic Actions** can be played any time during your main phase. **Battle Actions** however can only be played during an attack.
 
 ## 1.7.3 Object cards
-![BSSG_031.png|200](/img/user/BSSG_031.png)
-Object cards once played sit on your field just like balloons, except they cannot attack or block like balloons. objects are typically cheap and perform a number of helpful functions, however objects alone cannot help you win the game.
+![BSSG_031.png|300](/img/user/BSSG_031.png)
+Object cards once played sit on your field just like balloons, except they cannot attack or block like balloons. objects are typically cheap and perform a number of helpful functions that either work passively, or must be triggered by spending the object or performing other game actions. 
