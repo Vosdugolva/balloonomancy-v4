@@ -10,3 +10,5 @@ While all balloons are inflatable, Guardians take this above and beyond by being
 
 ---
 Guardians are the generalist balloon class for Green, they tend to be blockers and will often have BreathScale.
+
+They also tend to have mana acceleration abilities, something shared with Wind Sages.
