@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/2-general-mechanics/2-balloon-classes/6-about-mage-creatures/"}
 ---
 
-Mystical familiars whose appearance range from creatures associated with high magic to simply being inflatable magicians. Mage creatures are balloons imbued with great magical power that provide assistance to their balloonomancer during the game, although these typically stay out of the heat of the fight.
+![Kyubi.png|300](/img/user/Kyubi.png)![Pasted image 20250913182520.png|300](/img/user/Pasted%20image%2020250913182520.png)
+
+Mystical familiars whose appearance range from creatures associated with high magic to simply being inflatable magicians (and I swear they're not all foxes). Mage creatures are balloons imbued with great magical power that provide assistance to their balloonomancer during the game, although these typically stay out of the heat of the fight.
 
 ---
 

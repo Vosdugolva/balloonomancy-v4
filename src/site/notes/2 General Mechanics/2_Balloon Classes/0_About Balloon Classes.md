@@ -25,4 +25,4 @@ Balloons can have more than one class, and in the future I plan on playing with 
 
 ### Blue
 - [[2 General Mechanics/2_Balloon Classes/7_About Air Takers\|Air Taker]]
-- [[2 General Mechanics/2_Balloon Classes/8_About Shikigama\|Shikigama]]
+- [[2 General Mechanics/2_Balloon Classes/8_About Shikigami\|Shikigama]]
