@@ -4,16 +4,10 @@
 
 # Green style
 
-## Vibes:
-- very naturish and druidic in aesthetic 
-	- I think the proper term is Celtic, although that's mainly with the first deck
-- it's definitely foils purple in a nature magic versus arcane magic sort of deal.
-	- water, wind, and Earth. Mostly wind though.
-- not just Forest nature, also cares about jungle nature, and with the direction blue is going, green may also be the color for big ocean creatures too.
-	- possibly desert nature too
-- it's very much all about big fantastic creatures
-- I'm not sure if I put dragons in dinosaurs into green exclusively anymore, green used to be the big reptile color but
-	- I think I want dinosaurs as a green / red archetype and dragons as green / purple
+Green is framed as being very nature magic themed. it's one of 2 styles with a strong magical framing, this one is more about fantastical creatures and controlling the elements (mainly wind.)
 
-## Mechanics:
-- 
+Currently the deck leans more towards a Druidic/Celtic sort of aesthetic but I do want to go beyond just that down the road. like I want Green to be all about big, fancy balloon monsters that get gigantic.
+
+Mechanics wise, Green is the ramp color, it wants to build up one or more gigantic balloons and swing over opponents with a single, strong, hard to deal with creature. in time this has lead green into being more of a control color, where it's endgame is to get a stacked creature, and the path to it involves setting up blockers and bouncing threats that may interfere with your growth.
+
+I also want to push green into being a color that cares about inflate tokens and messing around with them. and there's also thoughts about trying to make something resembling MTG Voltron, where a bunch of object cards are used to target and buff a single creature into being a big threat. adding more dynamics to the whole tall strategy beyond just adding more and more breath tokens onto a balloon.

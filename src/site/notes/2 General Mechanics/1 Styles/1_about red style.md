@@ -4,26 +4,11 @@
 
 #  Red style
 
-## Vibes:
-- very athletics oriented 
-- kind of a "pugilist" division as is mechanics mostly center around the player leaning almost exclusively on their own physical ability.
-	- a lot of dodging and maneuvers
-	- gestures and taunting 
-	- reading and predicting the opponent 
-	- grabbing and throwing balloons and stuff
-- objects tend to be either fitness related or manually operated.
-- tends to be more simple and fundamental, it's more about playing the dodgeball game ernestly.
+So red style is framed as being very athletic, very body focused, it's the style that takes the whole dodgeball framing to heart and approaches the sport as a pure physical sport. where players are frantically running, ducking, and weaving, and catching and throwing their balloons at each other.
 
-## Mechanics:
-- is the tempo color 
-	- wants the get the most bang for it's buck
-	- values high/immediate board presence.
-- likes strength+X to have balloons swing over rival balloons 
-- like to force interaction with opponents boards.
-	- can spend rival balloons to make them open for attack 
-	- can attack balloons that are active.
-- want all of its balloons to be able to attack.
-- has the most efficient Dodge cards out of all the colors.
-- likes to manipulate its stamina line to prepare Dodges in it.
-- likes to have effects that trigger when it's balloons attack
-- can remove rival objects.
+I kinda see red as the "warrior" Class of the 4 colors. it's all about raw physical abilities rather than fancy tricks or magic. more about playing an honest game, relatively speaking.
+
+Mechanics wise, Red is aimed at being a more tempo centric color, it wants to get the most out of it's resources and create an increasingly potent board state. it's strategy is to maximize offensive pressure by having all or most all of it's balloons on offense. and rely on using action cards and preparing the stamina line with dodge cards to protect it from taking hits. Red still has blockers but generally wants all balloons to be able to attack.
+
+Red also likes to force players to interact or be open to interaction. if someone tries to pillow fort or sit on precious balloons, red has ways to force their hand or act on their board weather they want to or not.
+
