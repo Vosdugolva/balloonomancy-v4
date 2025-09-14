@@ -18,7 +18,7 @@ The goal of the game is to have all of your opposing players draw all 5 of their
 The last player standing is the winner.
 
 ## 3 Game Zones
-![Pasted image 20250912225207.png](/img/user/Pasted%20image%2020250912225207.png)
+![Pasted image 20250912225207.png](/img/user/Images/Pasted%20image%2020250912225207.png)
 
 Each Player's play space is broken up into 5 main zones
 - **Battle Zone**: Often referred to as "The Field" on card effects. this is where cards are played into and exist 'in the game'. this is the largest zone on your play area and has no rules regarding how cards can be positioned in it (but be organized for the sake of your rival players)
