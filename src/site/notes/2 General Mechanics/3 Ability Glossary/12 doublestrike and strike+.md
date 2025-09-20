@@ -5,7 +5,7 @@
 # Multi strike abilities 
 
 - Standard cost: 5
-- Value neutral: for the most part
+- Value neutral: not necessarily, but it depends
 - Universal across all colors.
 ---
 These multi-strike abilities basically allow a balloon to check more than one stamina card against arrival player. Strike plus is seen as additive and is mostly granted by card effects. Double strike is the innate ability that balloons have and if functionally identical to strike Plus one, just utilizing different language.
