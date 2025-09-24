@@ -4,17 +4,6 @@
 
 # balloon sizes and their significance 
 
-## Size 2
-the lowest basic size for balloons
-early game plays, and in later points you're able to start throwing down 2 of them. That's something to think about with these.
+So as I work and design this game, something I'm finding is that balloons seem to have the most utility at size 2-3, in situations where you need a big balloon, a size 2-3 that can be inflated to that size on the same turn or a later turn just has better flexibility than a size 5 balloon. Size (should) matter a lot in this game, bigger balloons can swing into spent balloons and trade safely, and bigger balloons can dodge spot removal and be more resilient. 
 
-Generally they shouldn't do anything that effects the field right away. Size 2 balloons should generally have effects that require some form of follow up since the balloons themselves are cheap to get down.
-
-## Size 3
-This is where I tend to want to put balloons with substantial on play effect at the lowest 
-
-## Size 4
-
-## Size 5
-
-## Size 6+
+A size 2 that can reach any size has high flexibility. so then when should a balloon be larger than 2?
