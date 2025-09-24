@@ -4,7 +4,7 @@
 
 # Green Starter Deck 1
 iteration 10
-![AV4_GreenDeck1_BSSG009_1.png](/img/user/Images/AV4_GreenDeck1_BSSG009_1.png)
+![[AV4_GreenDeck1_BSSG009_1.png\|AV4_GreenDeck1_BSSG009_1.png]]
 
 So among many things to notice, You'll see that [[2 General Mechanics/3 Ability Glossary/5 BreathScale\|BreathScale]] isn't used as liberally as it was before. as mentioned in [[3 Design Theory/Balloon Design Strategy V2\|Balloon Design Strategy V2]]. I've decided to instead give green balloons naturally higher limit values than other colors, and so far the results work out pretty well. the deck doesn't need all it's blockers to scale indefinitely, just being bigger than what others can deliver is enough. though it's still on this deck's one major finisher.
 
