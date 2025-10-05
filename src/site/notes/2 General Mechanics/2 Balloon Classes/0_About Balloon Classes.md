@@ -21,7 +21,7 @@ Balloons can have more than one class, and in the future I plan on playing with 
 
 ### Purple
 - [[2 General Mechanics/2 Balloon Classes/5_About SpellBeasts\|SpellBeast]]
-- [[2 General Mechanics/2 Balloon Classes/6_About Mage Creatures\|Mage Creature]]
+- [[2 General Mechanics/2 Balloon Classes/6_About Aeromagus\|Mage Creature]]
 
 ### Blue
 - [[2 General Mechanics/2 Balloon Classes/7_About Air Takers\|Air Taker]]
