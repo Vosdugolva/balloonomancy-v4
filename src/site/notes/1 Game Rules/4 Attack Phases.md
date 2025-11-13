@@ -22,16 +22,18 @@ When the attacking player has spent their attacking balloon and declared their t
 
 In the initiation step, the first thing that happens before anything is that balloon effects that trigger when the balloon attacks are resolved. typically this is only on the attacking balloon but some balloons may have effects that fire off when any other balloon initiates an attack.
 
-After effects resolve, the attacking player has the option to play their one battle action to lead in with the attacking balloon. weather they do or not, we move onto the next step
+After effects resolve, the attacking player has the option to play their one an action card to lead in with the attacking balloon. weather they do or not, we move onto the next step.
+
+Action cards are valid to play if they have **⯁ IN BATTLE** Effects and effects lead by ⯁ bullets, when played only those effects are utilized during the attack. there are also cards with the **Quick** Keyword that can be played at this time for their full effects.
 
 ## 1.4.2 Response Step
 
 Initiative moves to the defending player, and they have an opportunity to take actions to try and avoid the attacking balloon and end the attack phase before having to do a stamina check. currently the defending player has 2 actions available to them that can be done at any order:
-1. Play a battle action card.
+1. Play an action card.
 2. Declare a blocker.
 
-### 1.4.2.1 Play a battle action
-The defending player has the opportunity to play only one battle action in response to the attacking balloon. the goal may be to end the attack early by **Avoiding** the attacking balloon, or by removing the balloon from the attacking player's board.
+### 1.4.2.1 Play an action card
+The defending player has the opportunity to play only one action card in response to the attacking balloon. the goal may be to end the attack early by **Avoiding** the attacking balloon, or by removing the balloon from the attacking player's board.
 
 other cases the battle action may just give the player opportunity to build advantage at the expense of getting hit, or effect the attacking player's board in retaliation.
 
@@ -44,9 +46,9 @@ When a blocker is declared, the attacking balloon's target is switched to the bl
 
 ## 1.4.3 Counter Response step
 
-Initiative returns to the attacking player, and they get their last chance to play a battle action if they didn't play one during the initiation step. this can allow the attacking player to respond to and try and maneuver around chosen blockers or battle actions.
+Initiative returns to the attacking player, and they get their last chance to play an action card if they didn't play one during the initiation step. this can allow the attacking player to respond to and try and maneuver around chosen blockers or battle actions.
 
-note: Battle Actions resolve the moment they are played. so timing is important if the attacking player wants to try and prevent their balloon from being blocked, avoided, or removed by the defending player's battle action.
+note: action cards resolve the moment they are played. so timing is important if the attacking player wants to try and prevent their balloon from being blocked, avoided, or removed by the defending player's battle action.
 
 ## 1.4.4 Resolution step
 The final part of the attack sequence, and this sequence basically moves on to one of 2 different phases/events depending on who the attacking balloon is targeting.

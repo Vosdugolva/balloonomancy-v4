@@ -17,7 +17,8 @@ So when the game begins, the player goes through a number of phases each with th
 The 3 steps in the start phase are all done in a specific order
 1. **Ready step** is when you restore all spent cards on your field, balloon cards, objects, breath cards. and such
 2. **Setup step** is when you resolve all start of turn effects.
-3. **Draw step** is when you draw a card from the top of your deck.
+3. **Draw step** is when you draw a cards from the top of your deck, you must draw cards until you have 5 cards in your hand, and if you already have 5 cards or more, then you only draw a single card.
+	- in the event that you have no more card in your deck to draw from, draw one card off the top of your stamina line. You lose from deck out if you draw your last stamina card this way.
 
 ## 2 Main Phase
 

@@ -12,4 +12,6 @@ This carries on with the giant bats that make up a large part of Red style games
 
 ---
 
-Giant Bats generally represent the swiftness and evasiveness of the Red style. these commonly have mechanics that support actions as well as manipulating the stamina line. and it's common for them to have abilities like evasive or speedy.
+Giant Bats generally represent the swiftness and evasiveness of the Red style. So often they'll have abilities like speedy or evasive.
+
+Often though, these balloons handle in some form of card draw to replace themselves and contribute to hand advantage.
