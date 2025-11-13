@@ -6,7 +6,7 @@
 # Card types and their anatomy.
 
 
-![BSSG_003.png|200](/img/user/Images/BSSG_003.png)![BSSG_027.png|200](/img/user/Images/BSSG_027.png)![BSSG_031.png|200](/img/user/Images/BSSG_031.png)
+![JTTB_007.png|200](/img/user/Images/JTTB_007.png)![JTTB_028.png|200](/img/user/Images/JTTB_028.png)![JTTB_020.png|200](/img/user/Images/JTTB_020.png)
 
 So in the game there are 3 types of cards they are:
 - Balloons
@@ -33,5 +33,6 @@ Action cards are cards that perform an effect once you pay their breath cost and
 It's worth noting that effects lead by ⯁ bullet do not work when you aren't in the middle of an attack. so cards with only those effects can only be played during an attack. The reverse is also true where during an attack, only effects lead by a ⯁ bullet work. thus a card without those effects cannot be played during an attack.
 
 ## 1.7.3 Object cards
-![JTTB_020.png|200](/img/user/Images/JTTB_020.png)![JTTB_021.png|200](/img/user/Images/JTTB_021.png)![JTTB_054.png|200](/img/user/Images/JTTB_054.png)
+![JTTB_020.png|300](/img/user/Images/JTTB_020.png)![JTTB_021.png|300](/img/user/Images/JTTB_021.png)
 Object cards once played sit on your field just like balloons, except they cannot attack or block like balloons. objects are typically cheap and perform a number of helpful functions that either work passively, or must be triggered by spending the object or performing other game actions. Some objects are attachments that can be paid to attach to a balloon on your field, granting their effects to the attached balloon. if the balloon with an attachment leaves the field, the attachment falls off and remains on your field to be attached to another balloon.
+![JTTB_054.png|300](/img/user/Images/JTTB_054.png)
