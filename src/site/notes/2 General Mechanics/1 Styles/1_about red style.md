@@ -4,11 +4,18 @@
 
 #  Red style
 
-So red style is framed as being very athletic, very body focused, it's the style that takes the whole dodgeball framing to heart and approaches the sport as a pure physical sport. where players are frantically running, ducking, and weaving, and catching and throwing their balloons at each other.
+![Comm_Red.png|200](/img/user/Images/Comm_Red.png)
 
-I kinda see red as the "warrior" Class of the 4 colors. it's all about raw physical abilities rather than fancy tricks or magic. more about playing an honest game, relatively speaking.
+When the sport first took off and began to spread across the world, the first style to form from it was the Red style, created and practiced mainly by athletes and ley folk who don't mess with magic all that much.
 
-~~Mechanics wise, Red is aimed at being a more tempo centric color, it wants to get the most out of it's resources and create an increasingly potent board state. it's strategy is to maximize offensive pressure by having all or most all of it's balloons on offense. and rely on using action cards and preparing the stamina line with dodge cards to protect it from taking hits. Red still has blockers but generally wants all balloons to be able to attack.~~
+Red mancers fully embrace the dodgeball sport that is balloonomancy, and in the absence of fancy tricks or mystical powers, they rely primarily on just physical ability, effective strategy, and having sports grade balloons and equipment.
 
-~~Red also likes to force players to interact or be open to interaction. if someone tries to pillow fort or sit on precious balloons, red has ways to force their hand or act on their board weather they want to or not.~~
 
+### Gameplay
+Red is a proactive style that wants to keep it's momentum and maintain steady pressure on the opponent. it's favors a more beatdown style of gameplay, with steady aggression while having as many threats ready to swing with on the board as possible,
+
+Abilities like **Strength+X** and **Speedy** are common on red balloons to punch up against opposing threats and keep the heat on your rivals. abilities like **Evasive** and **Intimidate** are also common tools for weaving around blockers while being safe from retaliation.
+
+Red also likes to restore breath cards to get more use out of it's resources in a single turn, and is fond of manipulating it's stamina line to set it up with stamina triggers to avoid attacks with.
+
+Red is also the best at dodging out of all of the styles, sporting the most efficient evasion cards, a healthy number of actions with avoid triggers. and the ability to search for actions to stay on it's toes.

@@ -4,10 +4,15 @@
 
 # Purple style 
 
-Purple is another magic-centric color but is more on the wizardry/scholarly side of things. where instead of druids and hippies you've got nerds. Being kinda smart and heady is a part of the aesthetic of purple. along with themes of divination and stuff like that.
+![Comm_Purple.png|200](/img/user/Images/Comm_Purple.png)
 
-Purple is probably the color I'm most invested in from a mechanical standpoint as it's more of an original idea for this game. some would call it aggro with combo elements but I moreso see Purple as the "Burst Damage" Color. it wants to win through unleashing insane offensive pressure, but at the risk of burning itself out. and what I mean by that is that Purple favors having aggressive deck searching at the cost of milling itself, or milling itself to take a card it wants out of discard, or removing cards in it's breath zone to gain an advantage. it's got tools to strike hard and strike aggressively. but will put itself at an extreme resource deficit if the effort fails.
+The original planners of the "magician's sport" wanted to make something that captured the long lost art of spell slinging, battles of wit between sorcerers of old that now only live on as stories in an era where the practice has been largely outlawed. back then, balloonomancy was just a bespoke school of magic they were using as a way to simulate the summoning of creatures. but when their playtesters went rogue with the idea and it spread and became the dodgeball sport of today. the original planners simply had to adapt.
 
-a lot of purple's design also comes from trying to have the utility of token creature in a game that doesn't actually use token creatures. this is what the SpellBeast archetype is about, where they can be searched and pulled from discard rather liberally compared to other balloons, but that benefit is mostly reserved for them.
+The purple style was form by and for scholars of high magic. working within the accepted rules to create a style of play that emphasized quick thinking and risk taking as a way to display mastery. with balloons that embodied magical spells in both their potency and ephemeral nature.
 
-Purple is kinda like red in that it prefers to play action cards to avoid taking hits, but purple is also set as the only color able to gain stamina cards, framed as the player putting up magic barriers that negate a hit. it sounds kinda cheaty but that's how purple players play.
+### Gameplay
+Purple is all about hyper offense through the acceleration of threats at alternate costs and downsides. it's the true aggro style as many of it's strategies involve having power now for a later cost. often by using balloons that are cheap and potent, but have **Fragile**, meaning they pop after attacking or getting into a clash. others offer strong effects for persistent penalties or can come in at a discount for an alternative cost.
+
+Purple also has card selection, letting it dig deep into it's deck to grab important pieces when it needs, and while it's defensive options are limited, it's able to add cards into it's breath zone to recover from hits.
+
+When it's not trying to go for explosive offense, purple also likes to dable in more complex effects and interactions, from moving around breath tokens to revealing cards off the top of it's deck to gamble for effects.

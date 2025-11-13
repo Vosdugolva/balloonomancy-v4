@@ -4,10 +4,17 @@
 
 # Green style
 
-Green is framed as being very nature magic themed. it's one of 2 styles with a strong magical framing, this one is more about fantastical creatures and controlling the elements (mainly wind.)
+![Comm_Green.png|200](/img/user/Images/Comm_Green.png)
 
-Currently the deck leans more towards a Druidic/Celtic sort of aesthetic but I do want to go beyond just that down the road. like I want Green to be all about big, fancy balloon monsters that get gigantic.
+When the initial "Magicians sport" was first being workshopped, many within the magic wielding community were interested in what it would become. and while the rogue game that came out of their efforts was far from what the initial planners wanted. many still saw potential in the core idea of using inflatable creatures for magic dueling.
 
-Mechanics wise, Green is the ramp color, it wants to build up one or more gigantic balloons and swing over opponents with a single, strong, hard to deal with creature. in time this has lead green into being more of a control color, where it's endgame is to get a stacked creature, and the path to it involves setting up blockers and bouncing threats that may interfere with your growth.
+The Green style of balloonomancy was formed by those who were fans of the old style of magic dueling that were decided by summoning grand and powerful creatures to engage in epic fights against each other. and with a sport centered around inflatable creatures, they saw a way to engage in those grand spectacle fights with (hopefully) far less collateral damage.
 
-I also want to push green into being a color that cares about inflate tokens and messing around with them. and there's also thoughts about trying to make something resembling MTG Voltron, where a bunch of object cards are used to target and buff a single creature into being a big threat. adding more dynamics to the whole tall strategy beyond just adding more and more breath tokens onto a balloon.
+Green Mancers are often enthusiasts of old world magic, your druids and shaman types who like to wield the forces of nature, though in balloonomancy they predominately use wind magic for fairly obvious reasons. still a lot of those themes manifest in the way they design their balloons, with appearances ranging from forest spirits to grand forces of nature.
+
+### Gameplay
+Green is a very defensive and economy-centric style that's all about building up resources to win games through overwhelming force, often through large balloons stacked with attachments. 
+
+Green has the monopoly on resource acceleration, or the ability to add extra breath cards into it's breath zone to get more resources sooner than other colors can. and green balloons are more elastic than those of other colors, sporting the **Breathscale** ability which raises a balloon's limit relative to the number of breath cards you have, meaning these balloons can inflate to no end it seems.
+
+Green is a very late game color, needing time and investment before it's ready to win the game. as such it's got a healthy supply of defensive tools from blockers to actions and abilities that can blow rival balloons back to their owner's hands, or just blow them up till they burst.

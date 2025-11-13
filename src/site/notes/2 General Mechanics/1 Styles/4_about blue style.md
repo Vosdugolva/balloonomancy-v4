@@ -4,15 +4,17 @@
 
 # Blue style
 
-Blue was the last color to be developed, and took a long time to figure out the identity of it. eventually after musing on an earlier direction that was more ninja influenced, I decided to revisit it full on and now here we are.
+![Comm_Blue.png|200](/img/user/Images/Comm_Blue.png)
+As the rogue sport spread across the world, it took on a different form when it came to eastern regions of the world.
 
-So blue is a style of balloonomancy frames as being both eastern in influence and very performative by nature, players utilize gadgets, throwing objects, flashy acrobatics and ninja tricks to evade attacking balloons, meanwhile balloons of the blue style are armed with foam or wooden weapons to extend their reach and strike opposing players in a way that's technically legal but also very fun to watch. 
+The blue style is distinct for it's heavy use of tools, the mancers themselves wield darts and throwing objects to deflate and disorient balloons. and use all manners of smokescreens and jutsu to conceal themselves. The balloons are also in on this as they wield props and training weapons to tag players with, and even possess strange magic to weaken and confuse rival players in an effort to pin them down.
 
-Blue is the style of all the cool eastern stuff, ninjitsu, martial arts, Yokai, Flashy swordsmen, and a dash of mysticism. all of which culminates into a more reactive control color that wants to win through attrition. Blue plays defensively and tries to sabotage foes through discard and removal before bringing down some fast and powerful threats to clean things up in the late game.
+many consider the blue style to be hardcore and intimidating to play with. but now doubt spectacular to watch.
 
-Blues main draw is it's ability to make itself untouchable for a turn, and the Quick keyword which lets other cards be playable as battle actions. Blue like to dodge and evade like red does but it also loves it's blockers too. Blue also specializes in deflation, which is bounce but with extra steps. and likes using shredder to trade with it's rivals.
+### Gameplay
+Blue's aesthetic framing is all about swiftness and deadly precision, but it is a very patient color in gameplay. a true control style with many tools to protect itself, evade harm, and dismantle it's opponent's game plan by removing balloons on their field and cards from their rival's hand. but when it's time to end the game, blue will end the game!
 
-Blue has a lot of no-nonsense beaters as it's top end, cards that can get around blockers or ignore attempts to avoid them. but does need to stall till it can start throwing them down. Blue is also actively incentivized to not take hits as much as it can with cards and balloons that scale base on the number of stamina cards you have, getting weaker with the fewer you are left with.
+The blue style's top end consist of some of the most lethal win conditions of any color, fast and powerful balloons that can disregard dodge actions and stamina triggers alike with **Undodgeable**, and can claim many stamina cards with **Strike+x** bonuses. blue is also fond of **evasives** that can slip past defenses and strike unwary players.
 
-Blue is a late game color like green. however while green wants to accelerate into the late game, blue has to take it's time until it's able to start dropping heavy hitters.  
+In the meantime however, blue is an exceptionally defensive color, sporting a myriad of blockers, many of whom can inflate themselves bigger upon entry, and powerful evasion abilities that make them or even their board untouchable by effects for a period of time. blue is also equipped with many ways to **Stun** balloons to halt their engagement, and can discard cards in players hands to foil their strategies before they can take off.
 
