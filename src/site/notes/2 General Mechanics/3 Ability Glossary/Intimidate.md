@@ -8,8 +8,8 @@ Another returning ability from version 2 and a functional inverse of [[2 General
 
 - Standard cost: 3
 - Value neutral: not quite
-- So far it's neither exclusive nor favored by any color
+- Not exclusive to any color but green tends to favor it most
 ---
-So this version of Intimidate is a bit different in that it only stops the carrier from being targeted by smaller balloons, instead of it's earlier drafts which stopped smaller balloons from targeting anything on your field. though this version feels only marginally more useful than evasive.
+Intimidate fills a similar if not slightly weaker role to Evasive. Large intimidate balloons cannot be chump blocked (blocked by small blockers) and are safe from being swung into by balloons with Strength+X or Shredder to try and go for value trades.
 
-Mostly all it really does is keep the balloon from being chump blocked, or removed by a smaller balloon with shredder. it's arguably more valuable for offense than defense.
+Intimidate requires more investment than Evasive to really get working, but it's a nice ability to have on big beaters that act as your win condition.

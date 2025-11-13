@@ -8,10 +8,8 @@ It's basically haste/rush, the balloon gets to attack as soon as it enters play.
 
 - standard cost: 3
 - Value neutral: fucking no!
-- So far settling on it being Blues main thing, red and purple kinda mess with it also.
+- Generally favored by red and purple, blue has some but green doesn't get any.
+---
+A straightforward ability in terms of what it does. although with the way the game works, it's not as potent here as it is in it's inspiration. There are more layers of defense to get through so there are more ways a speedy balloon can get stopped, especially early in game where players will usually have a dodge in hand or a blocker before you can start throwing speedy balloons out.
 
-In earlier drafts this ability was just our equivalent to MTG's Flying, where only other speedies could block it. I might just rename it Rush or Haste because those sound better.
-
-Anyways it's pretty straightforward as to what it does, and because of that I tend to avoid giving it to anything sized 2 or less. By turn 3 is when most players will have answers to a balloon that comes in and attacks right away so I tend to feel more comfortable about it being at that cost range.
-
-it's somewhat in competition against the fact that balloons attack right away if they come in as expansions. but at least a 2 drop coming in on a 1 cost item has given advanced warning, and involves the player investing 2 cards into it.
+Still, speedy is valueble for getting hits in when an opponent is open, and you need to strike while the iron is hot.
